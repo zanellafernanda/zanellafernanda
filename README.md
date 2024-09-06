@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fernanda</h1>
+<h1 align="center">Hi 👋, I'm Fernanda!</h1>
 <h3 align="center">Full Stack Software Engineer.</h3>
 
 ## 💫 About Me:
