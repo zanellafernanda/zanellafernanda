@@ -3,8 +3,7 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently working as a freelancer!<br>
-🌱 I’m currently working in some projects, one of them is the companies Estude em Portugal, Prepara Portugal School, Prêmio Estrela do Atlântico.<br>
+🌱 I’m currently working in Estude em Portugal<br>
 🐾 Fun fact: Whenever I hit a coding bug, I explain the problem to my cat. Somehow, by the time I’m done, I’ve always figured out the solution! <br>
 🤝 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-zanella/)
 
