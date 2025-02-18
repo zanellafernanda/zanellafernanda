@@ -39,7 +39,7 @@
    &nbsp
    &nbsp
    &nbsp
-  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="5%" />
+  <img src="https://nodejs.org/static/logos/jsIconGreen.svg" width="5%" />
     &nbsp
     &nbsp
     &nbsp
