@@ -3,7 +3,8 @@
 
 ## 💫 About Me:
 
-🌱 I am a Full Stack Software Engineer passionate about technology and innovation with a strong focus on solving problems and creating effective, user-friendly web applications that deliver outstanding experiences using React.js, Next.js, Javascript, Node.js, Database(SQL and NoSQL), and WordPress. Contributing to different companies specialized in the most diverse segments such as Relocation schooling Assistance, Internet Awards, Tourism/traveling, and e-commerce developing web applications, automating processes, integrating platforms, and gathering customer requirements. <br>
+🌱 Full Stack Software Engineer with strong expertise in Python, JavaScript (Node.js), Databases (Postgres and MySQL), React, experience in building scalable applications, APIs, and automation workflows. Skilled 
+in integrating platforms, optimizing deployments, and delivering secure, data-driven solutions across industries such as relocation, e-commerce, travel, and digital platforms. Passionate about turning complex requirements into reliable software that enhances user experience and operational efficiency.   <br>
 🐾 Fun fact: Whenever I hit a coding bug, I explain the problem to my cat. Somehow, by the time I’m done, I’ve always figured out the solution! <br>
 🤝 Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-zanella/)
 
